@@ -14,8 +14,11 @@ AL_blocks_join_DP12_2.csv: Table of block level census data with both the DP and
 Census Relative Distance for MVAP.py: Python script that consumes the input data, calculates the Census Bureau's Relative Distance measure for each district and for each demographic group of interest, and plots them. The Census Bureau's Relative Distance measure is defined as the difference of the minority voting age population in the 2010 Census data with and without differential privacy applied as a fraction of the total VAP in the 2010 Census.
 #### Figures
 American Indian VAP Relative Distance.png: Plots the Census Bureau's Relative Distance measure for American Indian voting age populations over a variety of district sizes.
+
 Asian VAP Relative Distance.png: Plots the Census Bureau's Relative Distance measure for Asian voting age populations over a variety of district sizes.
+
 Black VAP Relative Distance.png: Plots the Census Bureau's Relative Distance measure for Black voting age populations over a variety of district sizes.
+
 Hispanic VAP Relative Distance.png: Plots the Census Bureau's Relative Distance measure for Hispanic voting age populations over a variety of district sizes.
 
 #### Input Data
